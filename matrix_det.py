@@ -1,5 +1,5 @@
 
-def get_input():                            # Gets input and returns a list of lists (each row in a matrix). Enter the matrix elements seperated by a row and use Enter key for new row.
+def get_input():                            # Gets input and returns a list of lists (each row in a matrix).
     mylist = []
     order = int(input('Enter the order of the matrix (like 3 for a 3x3 matrix): '))
     i = 0
